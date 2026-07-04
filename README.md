@@ -1,27 +1,39 @@
 <p align="center">
-  <img src="doremon.gif" alt="Doraemon" width="180" />
+  <img src="doremon.gif" alt="Doraemon" width="160" />
 </p>
 
-# Hi viewers, Bidushi Gautam here!
+# Namaste, I'm Bidushi Gautam!
 
-I am a BSc CSIT student in my 8th semester at New Summit College. I am a passionate full-stack developer striving toward a future built on clean code, robust backend architectures, and smooth user experiences.
+I am a BSc CSIT student in my 8th semester at New Summit College. I am a full-stack developer focused on building robust backend systems, optimizing database architectures, and engineering responsive web applications.
 
-* 🔭 I’m currently refining my skills in full-stack architecture and backend systems.
-* 🌱 I’m currently focusing on building robust applications with **.NET Core**, **C#**, and relational databases.
-* 💬 Ask me about web engineering, database design, or college life at New Summit College!
-* ⚡ Fun fact: I balance writing complex code logic with a love for classic anime like Doraemon.
 
----
 
 ## My Skill Set
 
-| Frontend Stack | Backend Stack | Databases & Tools |
-| :--- | :--- | :--- |
-| HTML5 | C# | Microsoft SQL Server |
-| CSS3 | .NET / .NET Core | MySQL |
-| JavaScript | PHP | PHPMyAdmin <br> Git & GitHub |
+<table align="center">
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend Stack</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend Stack</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,php" alt="Backend" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Databases & Tools</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=mysql,git,github" alt="Tools" />
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+
 
 ## Connect with Me
 
