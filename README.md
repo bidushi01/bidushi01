@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="doremon2.gif" alt="Doraemon" width="160" />
+  <img src="doremon2.gif" alt="Doraemon" width="400" />
 </p>
 
 <h1 align="center"> Namaste! Bidushi Gautam here.</h1>
-
-
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
@@ -14,7 +12,7 @@
         Just a final-year tech enthusiast who loves building software, exploring new frameworks, and creating cool full-stack projects. I’m always open to learning new things, sharing ideas, and collaborating with fellow developers. 
       </p>
       <p>
-        <strong>✨ Always down to connect, chat about technology, or grab a coffee!</strong>
+        <strong>✨ Always down to connect, chat about technology, or collaborate on cool projects!</strong>
       </p>
     </td>
     <td valign="middle" width="40%" align="right">
@@ -23,9 +21,7 @@
   </tr>
 </table>
 
-
-
-##  My Skill Set
+## My Skill Set
 
 <table align="center">
   <tr>
@@ -50,9 +46,9 @@
   </tr>
 </table>
 
----
 
-## Let's Connect
+
+##  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bidushi-gautam-64826a371/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
