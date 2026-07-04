@@ -1,5 +1,6 @@
 <p align="center">
   <img src="doremon.gif" alt="Doraemon" width="160" />
+  <img src="doremon2.gif" alt="Doraemon" width="300" />
 </p>
 
 # Namaste, I'm Bidushi Gautam!
