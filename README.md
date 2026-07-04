@@ -1,40 +1,36 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Animals/Cat%20Face.png" alt="Doraemon Cat" width="120" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Animals/Cat%20Face.png" alt="Doraemon Cat" width="100" />
 </p>
 
-<h1 align="center">Namaste, I'm Bidushi Gautam!</h1>
+# Hi viewers, Bidushi Dhungana here!
 
-<p align="center">
-  I am a BSc CSIT student in my 8th semester at New Summit College. I am passionate about full-stack development, database design, and backend architecture.
-</p>
+I am a BSc CSIT student in my 8th semester at New Summit College. I am a passionate full-stack developer striving toward a future built on clean code, robust backend architectures, and smooth user experiences.
 
----
-
-### 💻 Technical Focus
-
-* **Backend Engineering** — Developing logic frameworks, controllers, and APIs using C# and .NET.
-* **Database Architecture** — Handling data mapping, writing stored procedures, and managing relational databases with SQL Server.
-* **Full-Stack Implementation** — Creating dynamic web applications using JavaScript, PHP, and modern web standards.
+* I’m currently refining my skills in full-stack architecture and backend systems.
+* I’m currently focusing on building robust applications with **.NET Core**, **C#**, and relational databases.
+* Ask me about web engineering, database design, or college life at New Summit!
+* Fun fact: I balance writing logic parameters with a love for classic anime like Doraemon.
 
 ---
 
-### 🛠️ Featured Projects
+## My Skill Set
 
-#### PeerHelpPlatform
-A digital full-stack application designed to connect platform seekers with available helpers. Built backend components to handle complex multi-node assignment logic, factoring in availability, specific matching rules, and expertise tracking.
+### Frontend Stack
+* HTML5 / CSS3
+* JavaScript
 
-#### Employee Management MVC
-An architecture-focused system implemented using C# and Dapper ORM to practice structured data mapping, repository patterns, and clean separation of concerns within the MVC framework.
+### Backend Stack
+* C# / .NET / .NET Core
+* PHP
 
-#### Billing System
-A custom client billing application written in JavaScript focused on client-side state tracking, dynamic data calculations, and clean UI responsiveness.
-
-#### Sajilo-Wear
-An e-commerce web application built with PHP featuring database integration, secure user authentication, and product catalogs.
+### Databases & Tools
+* Microsoft SQL Server
+* MySQL / PHPMyAdmin
+* Git & GitHub
 
 ---
 
-### 📫 Connect with Me
+## Connect with Me
 
 * **Email:** gautambidushi4@gmail.com
 * **LinkedIn:** [linkedin.com/in/bidushi-gautam-64826a371](https://www.linkedin.com/in/bidushi-gautam-64826a371/)
