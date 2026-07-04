@@ -9,10 +9,7 @@
     <td valign="middle" width="60%">
       <h3> Undergraduate 8th Sem Student</h3>
       <p>
-        Just a final-year tech enthusiast who loves building software, exploring new frameworks, and creating cool full-stack projects. I’m always open to learning new things, sharing ideas, and collaborating with fellow developers. 
-      </p>
-      <p>
-        <strong>✨ Always down to connect, chat about technology, or collaborate on cool projects!</strong>
+        As a final-year student, I love exploring new frameworks and building full-stack software. I am always driven by learning new technologies, sharing ideas, and collaborating with fellow developers on creative projects!
       </p>
     </td>
     <td valign="middle" width="40%" align="right">
@@ -21,7 +18,7 @@
   </tr>
 </table>
 
-## My Skill Set
+##  My Skill Set
 
 <table align="center">
   <tr>
@@ -48,7 +45,7 @@
 
 
 
-##  Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bidushi-gautam-64826a371/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
