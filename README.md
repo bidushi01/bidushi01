@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.svg" width="200" alt="Doraemon" />
+</p>
+
 # Namaste, I'm Bidushi Gautam!
 
-I am an undergraduate Computer Science student passionate about full-stack development, database design, and architecture. I enjoy building robust backend systems, writing optimized relational database logic, and creating clean web interfaces.
+I am a BSc CSIT student in my 8th semester at New Summit College. I am passionate about full-stack development, database design, and architecture, with a strong focus on building robust backend systems, writing optimized relational database logic, and creating clean web interfaces.
 
 ---
 
@@ -31,4 +35,4 @@ An e-commerce web application built with PHP featuring database integration, sec
 ### Connect with Me
 
 * **Email:** gautambidushi4@gmail.com
-* **LinkedIn:** linkedin.com/in/bidushi-gautam
+* **LinkedIn:** linkedin.com/in/bidushi-gautam-64826a371
