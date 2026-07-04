@@ -9,13 +9,13 @@
   An engineering student who spends way too much time debugging code and converting caffeine into functional applications. I specialize in building solid backends, crafting responsive layouts, and trying to fix errors on the first try.
   <img src="second image.gif" alt="Doraemon" width="160" />
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bidushi-gautam-64826a371/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:gautambidushi4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p>
+  <img src="second image.gif" alt="Doraemon" width="160" />
 </p>
 
----
+
+
+
 
 ##  My Skill Set
 
@@ -42,9 +42,12 @@
   </tr>
 </table>
 
----
+
 
 ##  Let's Connect
 
-* **Email:** gautambidushi4@gmail.com
-* **LinkedIn:** [linkedin.com/in/bidushi-gautam-64826a371](https://www.linkedin.com/in/bidushi-gautam-64826a371/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/bidushi-gautam-64826a371/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gautambidushi4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
