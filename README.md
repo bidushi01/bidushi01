@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="doremon.gif" alt="Doraemon" width="160" />
-  <img src="doremon2.gif" alt="Doraemon" width="300" />
+ <img src="doremon2.gif" alt="Doraemon" width="500" />
 </p>
 
 # Namaste, I'm Bidushi Gautam!
 
-I am a BSc CSIT student in my 8th semester at New Summit College. I am a full-stack developer focused on building robust backend systems, optimizing database architectures, and engineering responsive web applications.
+I am a BSc CSIT student in my 8th semester at New Summit College. I am a full-stack developer focused on building robust backend systems, optimizing database architectures, and engineering responsive web applications.  <img src="doremon.gif" alt="Doraemon" width="300" />
 
 
 
