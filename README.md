@@ -4,15 +4,24 @@
 
 <h1 align="center"> Namaste! Bidushi Gautam here.</h1>
 
-<p align="center">
-  <strong>8th Semester BSc. CSIT Student @ New Summit College</strong> <br>
-  An engineering student who spends way too much time debugging code and converting caffeine into functional applications. I specialize in building solid backends, crafting responsive layouts, and trying to fix errors on the first try.
- </p>
-<p>
-  <img position="right-allign" src="second image.gif" alt="coding" width="400" />
-</p>
 
 
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td valign="middle" width="60%">
+      <h3> Undergraduate 8th Sem Student</h3>
+      <p>
+        Just a final-year tech enthusiast who loves building software, exploring new frameworks, and creating cool full-stack projects. I’m always open to learning new things, sharing ideas, and collaborating with fellow developers. 
+      </p>
+      <p>
+        <strong>✨ Always down to connect, chat about technology, or grab a coffee!</strong>
+      </p>
+    </td>
+    <td valign="middle" width="40%" align="right">
+      <img src="second image.gif" alt="coding" width="300" />
+    </td>
+  </tr>
+</table>
 
 
 
@@ -41,12 +50,11 @@
   </tr>
 </table>
 
+---
 
-
-##  Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bidushi-gautam-64826a371/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:gautambidushi4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
