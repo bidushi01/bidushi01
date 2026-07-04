@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Animals/Cat%20Face.png" alt="Doraemon Cat" width="100" />
 </p>
 
-# Hi viewers, Bidushi Dhungana here!
+# Hi viewers, Bidushi Gautam here!
 
 I am a BSc CSIT student in my 8th semester at New Summit College. I am a passionate full-stack developer striving toward a future built on clean code, robust backend architectures, and smooth user experiences.
 
