@@ -7,7 +7,7 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="middle" width="60%">
-      <h3> Undergraduate 8th Sem Student</h3>
+      <h3> Undergraduate 8th Sem BSc.CSIT Student</h3>
       <p>
         As a final-year student, I love exploring new frameworks and building full-stack software. I am always driven by learning new technologies, sharing ideas, and collaborating with fellow developers on creative projects!
       </p>
