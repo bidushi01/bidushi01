@@ -7,10 +7,9 @@
 <p align="center">
   <strong>8th Semester BSc. CSIT Student @ New Summit College</strong> <br>
   An engineering student who spends way too much time debugging code and converting caffeine into functional applications. I specialize in building solid backends, crafting responsive layouts, and trying to fix errors on the first try.
-  <img src="second image.gif" alt="Doraemon" width="160" />
-</p>
+ </p>
 <p>
-  <img src="second image.gif" alt="Doraemon" width="160" />
+  <img position="right-allign" src="second image.gif" alt="coding" width="400" />
 </p>
 
 
@@ -30,13 +29,13 @@
     <td valign="top" width="33%">
       <h3 align="center">Backend Stack</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,py,java" alt="Backend" />
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,py,java,php" alt="Backend" />
       </p>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">Databases & Tools</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=sqlserver,git,github" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=sqlserver,git,github,mysql" alt="Tools" />
       </p>
     </td>
   </tr>
