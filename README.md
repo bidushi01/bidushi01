@@ -9,7 +9,7 @@
     <td valign="middle" width="60%">
       <h3> Undergraduate 8th Sem BSc.CSIT Student</h3>
       <p>
-        As a final-year student, I love exploring new frameworks and building full-stack software. I am always driven by learning new technologies, sharing ideas, and collaborating with fellow developers on creative projects!
+       Final-year BSc CSIT student with internship experience developing ASP.NET Core web applications using C#, SQL Server, Dapper ORM, and Entity Framework. Passionate about backend development, clean architecture, and building scalable web applications.
       </p>
     </td>
     <td valign="middle" width="40%" align="right">
