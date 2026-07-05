@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="doremon2.gif" alt="Doraemon" width="400" />
+  <img src="coding.gif" alt="coding" width="400" />
 </p>
 
 <h1 align="center"> Namaste! Bidushi Gautam here.</h1>
